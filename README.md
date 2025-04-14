@@ -10,15 +10,19 @@ O projeto busca:
  - Compreender como essa contribuição se relaciona com variáveis ecológicas (ex: cobertura vegetal, biodiversidade) e sociodemográficas (ex: renda, densidade populacional, uso do solo)
  - Explorar os limites, variações, escalas e magnitudes do efeito da IVU na paisagem suburbana carioca
 
+Os arquivos de entrada utilizados nas análises deste projeto podem ser acessados e baixados através do seguinte link (ainda não ta completo):
+
+[SuburbIVU - Carson Silveira](https://drive.google.com/drive/folders/1ZBA7EC5Q6BRbn6TfFtXBn5qMzuX84Cpu?usp=sharing)
+
 🗂️ Descrição dos Diretórios
-- `data/`:  
  - `ucm_calibration/`: Contém os dados usados para calibrar o modelo InVEST Urban Cooling Model
  - `ucm-run/`: Armazena os resultados e da execução do InVEST Urban Cooling Model
  - `landscape-metrics-cooling-capacity/`: Contém relacionado a análise da paisagem relacionadas
  - `BRT/`: Dados utilizados para a modelagem Boosted Regression Trees
  - `biblatex/`: Referências bibliográficas do projeto
 
-
+📚 Produtos da Pesquisa
+- SILVEIRA, C.; DIAS, A. T. C. ; GOIS, G. ; AMARAL, F. G. ; PISTON, N. [The importance of private gardens and their spatial composition and configuration to urban heat island mitigation](https://www.sciencedirect.com/science/article/abs/pii/S2210670724004141?via%3Dihub). Sustainable Cities and Society, v. 112, p. 105589, 2024
 
 ---
 Projeto de pesquisa desenvolvido por [Carson Silveira](@crsnao), no âmbito do programa de Mestrado em [Ecologia da UFRJ](https://ppge.ufrj.br/), com orientação de Núria Piston e André Dias.
