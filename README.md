@@ -11,11 +11,14 @@ O projeto busca:
  - Explorar os limites, variações, escalas e magnitudes do efeito da IVU na paisagem suburbana carioca
 
 🗂️ Descrição dos Diretórios
-- **ucm_calibration/**: Contém os dados usados para calibrar o modelo **UCM**.
-- **ucm-run/**: Armazena os resultados da execução do modelo **UCM**.
-- **landscape-metrics-cooling-capacity/**: Contém as métricas de paisagem relacionadas à capacidade de resfriamento.
-- **BRT/**: Dados utilizados para a modelagem **BRT**.
-- **biblatex/**: Referências bibliográficas do projeto.
+- `data/`:  
+ - `ucm_calibration/`: Contém os dados usados para calibrar o modelo InVEST Urban Cooling Model
+ - `ucm-run/`: Armazena os resultados e da execução do InVEST Urban Cooling Model
+ - `landscape-metrics-cooling-capacity/`: Contém relacionado a análise da paisagem relacionadas
+ - `BRT/`: Dados utilizados para a modelagem Boosted Regression Trees
+ - `biblatex/`: Referências bibliográficas do projeto
+
+
 
 ---
 Projeto de pesquisa desenvolvido por [Carson Silveira](@crsnao), no âmbito do programa de Mestrado em [Ecologia da UFRJ](https://ppge.ufrj.br/), com orientação de Núria Piston e André Dias.
