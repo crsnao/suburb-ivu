@@ -10,8 +10,7 @@ O projeto busca:
  - Compreender como essa contribuição se relaciona com variáveis ecológicas (ex: cobertura vegetal, biodiversidade) e sociodemográficas (ex: renda, densidade populacional, uso do solo)
  - Explorar os limites, variações, escalas e magnitudes do efeito da IVU na paisagem suburbana carioca
 
-Os arquivos de entrada utilizados nas análises deste projeto podem ser acessados e baixados através do seguinte link (ainda não ta completo):
-
+Os arquivos de entrada utilizados nas análises deste projeto podem ser acessados e baixados através do seguinte link:
 [SuburbIVU - Carson Silveira](https://drive.google.com/drive/folders/1ZBA7EC5Q6BRbn6TfFtXBn5qMzuX84Cpu?usp=sharing)
 
 🗂️ Descrição dos Diretórios
