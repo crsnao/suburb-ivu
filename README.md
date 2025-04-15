@@ -18,7 +18,8 @@ Os arquivos de entrada utilizados nas análises deste projeto podem ser acessado
 
 *Os scripts das análises Boosted Regression Trees (BRT) e os dados das áreas verdes intraurbanas para o subúrbio não estão disponibilizados publicamente neste repositório, mas podem ser compartilhados mediante solicitação.*
 
-SILVEIRA, C.; DIAS, A. T. C. ; GOIS, G. ; AMARAL, F. G. ; PISTON, N. [The importance of private gardens and their spatial composition and configuration to urban heat island mitigation](https://www.sciencedirect.com/science/article/abs/pii/S2210670724004141?via%3Dihub). Sustainable Cities and Society, v. 112, p. 105589, 2024
+📚 Produtos
+- SILVEIRA, C.; DIAS, A. T. C. ; GOIS, G. ; AMARAL, F. G. ; PISTON, N. [The importance of private gardens and their spatial composition and configuration to urban heat island mitigation](https://www.sciencedirect.com/science/article/abs/pii/S2210670724004141?via%3Dihub). Sustainable Cities and Society, v. 112, p. 105589, 2024
 
 ---
 Projeto de pesquisa desenvolvido por Carson Silveira, no âmbito do programa de Mestrado em [Ecologia da UFRJ](https://ppge.ufrj.br/), com orientação de Núria Piston e André Dias.
