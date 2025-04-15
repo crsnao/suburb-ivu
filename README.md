@@ -14,11 +14,11 @@ Os arquivos de entrada utilizados nas análises deste projeto podem ser acessado
 [SuburbIVU - Carson Silveira](https://drive.google.com/drive/folders/1ZBA7EC5Q6BRbn6TfFtXBn5qMzuX84Cpu?usp=sharing)
 
 🗂️ Descrição dos Diretórios
- - `ucm_calibration/`: Contém os dados usados para calibrar o modelo InVEST Urban Cooling Model
+ - `ucm_calibration/`: Script usado para calibrar o modelo InVEST Urban Cooling Model
  - `ucm-run/`: Armazena os resultados e da execução do InVEST Urban Cooling Model
- - `landscape-metrics-cooling-capacity/`: Contém relacionado a análise da paisagem relacionadas
- - `BRT/`: Dados utilizados para a modelagem Boosted Regression Trees
- - `biblatex/`: Referências bibliográficas do projeto
+ - `landscape-metrics-cooling-capacity/`: Contém o script relacionado a análise da paisagem 
+
+*Os scripts das análises Boosted Regression Trees (BRT) e os dados das áreas verdes intraurbanas para o subúrbio não estão disponibilizados publicamente neste repositório, mas podem ser compartilhados mediante solicitação.*
 
 SILVEIRA, C.; DIAS, A. T. C. ; GOIS, G. ; AMARAL, F. G. ; PISTON, N. [The importance of private gardens and their spatial composition and configuration to urban heat island mitigation](https://www.sciencedirect.com/science/article/abs/pii/S2210670724004141?via%3Dihub). Sustainable Cities and Society, v. 112, p. 105589, 2024
 
