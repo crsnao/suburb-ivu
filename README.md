@@ -1,6 +1,5 @@
 # 🌿 SuburbIVU: Infraestrutura Verde Urbana no Subúrbio Carioca
 
-📘 Sobre o Projeto
 Em um contexto de intensificação das mudanças climáticas, compreender o papel das diferentes formas de infraestrutura verde urbana (IVU) na provisão de serviços ecossistêmicos é essencial para o desenvolvimento de estratégias de mitigação e adaptação climática nas cidades. Isso é particularmente importante para garantir o bem-estar urbano de forma equitativa (Anguelovski, 2018).
 No caso do Rio de Janeiro, destaca-se historicamente a existência de desigualdades urbanas, expressas nos diferentes padrões de planejamento e ocupação do território. Nas regiões suburbanas, observa-se uma presença significativa de quintais arborizados e áreas comuns vegetadas, que, embora pouco estudadas, podem ter papel relevante na geração de benefícios ecológicos e sociais (Ruffato-Ferreira, 2016).
 
