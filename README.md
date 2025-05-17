@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ecolind.2023.109876-blue)](https://doi.org/10.1016/j.ecolind.2023.109876)
+
 # SuburbIVU: Infraestrutura Verde Urbana no Subúrbio Carioca
 
 Em um contexto de intensificação das mudanças climáticas, compreender o papel das diferentes formas de infraestrutura verde urbana (IVU) na provisão de serviços ecossistêmicos é essencial para o desenvolvimento de estratégias de mitigação e adaptação climática nas cidades. Isso é particularmente importante para garantir o bem-estar urbano de forma equitativa (Anguelovski, 2018).
