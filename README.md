@@ -22,7 +22,7 @@ Os arquivos de entrada utilizados nas análises deste projeto podem ser acessado
 
 ## Produtos
 
-SILVEIRA, C.; DIAS, A. T. C. ; GOIS, G. ; AMARAL, F. G. ; PISTON, N. [The importance of private gardens and their spatial composition and configuration to urban heat island mitigation](https://www.sciencedirect.com/science/article/abs/pii/S2210670724004141?via%3Dihub). Sustainable Cities and Society, v. 112, p. 105589, 2024
+SILVEIRA, C.; DIAS, A. T. C. ; GOIS, G. ; AMARAL, F. G. ; PISTON, N. **The importance of private gardens and their spatial composition and configuration to urban heat island mitigation**. Sustainable Cities and Society, v. 112, p. 105589, 2024
 
 ---
 Projeto de pesquisa desenvolvido por Carson Silveira, no âmbito do programa de Mestrado em [Ecologia da UFRJ](https://ppge.ufrj.br/), com orientação de Núria Piston e André Dias.
