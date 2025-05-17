@@ -1,4 +1,4 @@
-[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ecolind.2023.109876-blue)](https://doi.org/10.1016/j.scs.2024.105589)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.scs.2024.105589-blue)](https://doi.org/10.1016/j.scs.2024.105589)
 
 # SuburbIVU: Infraestrutura Verde Urbana no Subúrbio Carioca
 
