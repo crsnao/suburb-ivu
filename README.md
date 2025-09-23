@@ -23,6 +23,7 @@ Os arquivos de entrada utilizados nas análises deste projeto podem ser acessado
 ## Produtos
 
 SILVEIRA, C.; DIAS, A. T. C. ; GOIS, G. ; AMARAL, F. G. ; PISTON, N. **The importance of private gardens and their spatial composition and configuration to urban heat island mitigation**. Sustainable Cities and Society, v. 112, p. 105589, 2024
+
 SILVEIRA, C. **Pequenas áreas verdes podem reduzir as temperaturas em até 1ºC no subúrbio carioca**. Blog Ciências Fundamental/Serrapilheira, 2025
 
 ---
