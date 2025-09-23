@@ -27,4 +27,4 @@ SILVEIRA, C.; DIAS, A. T. C. ; GOIS, G. ; AMARAL, F. G. ; PISTON, N. **The impor
 SILVEIRA, C. **Pequenas áreas verdes podem reduzir as temperaturas em até 1ºC no subúrbio carioca**. Blog Ciências Fundamental/Serrapilheira, 2025
 
 ---
-Projeto de pesquisa desenvolvido por Carson Silveira, no âmbito do programa de Mestrado em [Ecologia da UFRJ](https://ppge.ufrj.br/), com orientação de Núria Piston e André Dias.
+Projeto de pesquisa desenvolvido por Carson Silveira, no âmbito do programa de Mestrado em [Ecologia da UFRJ](https://ppge.ufrj.br/), sob orientação de Núria Piston e André Dias.
