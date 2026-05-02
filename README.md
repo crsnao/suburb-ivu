@@ -41,4 +41,4 @@ SILVEIRA, C. **Small green areas can reduce temperatures by up to 1ºC in Rio de
 
 ---
 
-**Research project developed by Carson Silveira** as part of the Master's program in [Ecology at UFRJ](https://ppge.ufrj.br/), supervised by Núria Piston and André Dias.
+**Research project developed by Carson Silveira** as part of Master's research in [Ecology at UFRJ](https://ppge.ufrj.br/), supervised by Núria Piston and André Dias.
